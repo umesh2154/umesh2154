@@ -1,3 +1,54 @@
+# 💫 Hi 👋, I'm Umesh Phuyal
+
+### 🎓 BCA Student | Python Learner | Aspiring Backend & Web Developer
+
+I'm a passionate BCA student from Nepal who enjoys learning programming and building web applications. Currently, I'm focusing on Python, Flask, Django, and database management while improving my problem-solving and development skills through academic and personal projects.
+
+📧 **Email:** [phuyalumesh152@gmail.com](mailto:phuyalumesh152@gmail.com)
+
+---
+
+### 🚀 About Me
+
+* 🎓 Studying **Bachelor of Computer Applications (BCA)**
+* 🌱 Currently learning **Python, Flask, Django, MySQL, and Web Development**
+* 💻 Building small projects to strengthen my programming skills
+* 🎯 Interested in **Backend Development and Full-Stack Web Applications**
+* 🤝 Looking for **Internship Opportunities in Python/Django Development**
+* 📚 Always eager to learn new technologies and improve my coding skills
+
+---
+
+### 🛠️ Skills & Technologies
+
+* **Languages:** Python, Java, JavaScript
+* **Frontend:** HTML, CSS, Bootstrap
+* **Backend:** Flask, Django (Learning)
+* **Database:** MySQL, SQLite
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+### 💬 Ask Me About
+
+* Python Programming
+* Flask Projects
+* Web Development Basics
+* Database Design
+* Technical Documentation
+
+---
+
+### 📫 Connect With Me
+
+📧 **Email:** [phuyalumesh152@gmail.com](mailto:phuyalumesh152@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+
+I started programming out of curiosity, and now I enjoy turning ideas into real projects while continuously learning new technologies. 🚀
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/umesh.phuyal.480683)
